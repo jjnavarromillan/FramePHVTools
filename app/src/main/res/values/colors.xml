@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="v2_clear_blue">#feffff</color>
+    <color name="v2_green_contrast">#b4b994</color>
+    <color name="v2_ground_contrast">#6D5E51</color>
+    <color name="v2_clearest">#f2f2f2</color>
+    <color name="v2_clear_gray">#e6e6e6</color>
+    <color name="v2_dark">#344b5f</color>
+    <color name="v2_darkest">#088b75</color>
+    <color name="v2_red">#f9bdc0</color>
+    <color name="v2_darkred">#6d5e51</color>
+    <color name="v2_clear_row">#d7d8c4</color>
+    <color name="v2_red_row">#8a7e74</color>
+    <color name="v2_soft_gray">#e4f4f4</color>
+
+
+
+    <color name="gray_level_1">#f1f1f2</color>
+    <color name="gray_level_2">#e6e7e8</color>
+    <color name="gray_level_3">#404041</color>
+
+    <color name="secunday_dark">#4e3166</color>
+    <color name="primary">#607d8b</color>
+    <color name="primary_dark">#344b5f</color>
+    <color name="primary_light">#a4ac80</color>
+    <color name="accent">#6d5e51</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+
+    <color name="clear_ngcs">#ffffff</color>
+    <color name="dark_ngcs">#cccccc</color>
+    <color name="blue_plugin_color">#2A86C4</color>
+    <color name="blue_plugin_dark">#6D6E70</color>
+    <color name="blue_plugin_clear">#e6e7e8</color>
+    <color name="blue_plugin_white">#FFFFFF</color>
+
+</resources>
